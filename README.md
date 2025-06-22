@@ -1,0 +1,2 @@
+# Analyzing_App_Metrics_to_Uncover_User_Behavior_-_Business_Insights
+This project explores user behavior and app performance by analyzing various attributes such as ratings, reviews, price, size, installs, and user sentiment. Using Python, pandas, seaborn, and NLP techniques, the analysis identifies trends and patterns that offer valuable business insights for app developers, marketers, and analysts.
